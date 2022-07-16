@@ -1,0 +1,11 @@
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.csprojAssemblyReference.cache
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.Form1.resources
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.Properties.Resources.resources
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.csproj.GenerateResource.cache
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.csproj.CoreCompileInputs.cache
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\AdamsExecutor.csproj.CopyComplete
+C:\Users\hypno\Desktop\AdamsExecutor\YeatExecutor.exe.config
+C:\Users\hypno\Desktop\AdamsExecutor\YeatExecutor.exe
+C:\Users\hypno\Desktop\AdamsExecutor\YeatExecutor.pdb
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\YeatExecutor.exe
+C:\Users\hypno\source\repos\AdamsExecutor\obj\Debug\YeatExecutor.pdb
